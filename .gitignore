@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific ignores
+# Pickle files in models folder
+models/*.pkl
+models/*.pickle
+
+# Generated PDF figures in figures folder
+figures/*.pdf
+
+# Large data files (HPC-managed)
+# Uncomment these if needed for local development
+# data/large_datasets/
