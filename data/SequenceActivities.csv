@@ -1,0 +1,16 @@
+﻿Protein ID,In lab,Notes,In UniProt,Organism,Protein,FAcD Activity,TTN,TTN_error,color
+Q1JU72 ,No,Literature Positive,UniProt Reviewed,Burkholderia sp,Fluoroacetate dehalogenase,,,,black
+Q6NAM1 ,Yes,Literature Positive,UniProt Reviewed,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),Fluoroacetate dehalogenase,Fast,22176.00,1102.00,red
+Q01398 ,No,Literature Positive,UniProt Reviewed,Moraxella sp. (strain B),Haloacetate dehalogenase H-1,,,,aqua
+Q123C8 ,No,Literature Positive,UniProt Obsolete Unreviewed,Polaromonas sp. (strain JS666 / ATCC BAA-500),Alpha/beta hydrolase fold protein,,,,fuchsia
+Q479B8 ,Yes,Literature Positive,UniProt Active Unreviewed,Dechloromonas aromatica (strain RCB),Alpha/beta hydrolase fold protein,Fast,,,lime
+Q8Z0Q1 ,No,Literature Positive,UniProt Obsolete Unreviewed,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),Alr0039 protein,,,,plum
+A0A0D7E0W8,Yes,Q6 LGL2 initial enzyme; closest purifyable extant,UniProt Active Unreviewed,Rhodopseudomonas palustris,Alpha/beta hydrolase,Slow,,,saddlebrown
+A0A1W6ZS72,Yes,Q6 LGL2 follow-up enzyme; extant well,UniProt Active Unreviewed,Pseudorhodoplanes sinuspersici,Alpha/beta hydrolase,Fast,,,lightcyan
+A0A7S9CV34,Yes,Q6 LGL2 follow-up enzyme; extant barrier with Q gate,UniProt Obsolete Unreviewed,Bradyrhizobium genosp. L.,Alpha/beta hydrolase,Slow,,,gray
+A0A4V6IMR0,Yes,LGL1 Extant from training set,UniProt Active Unreviewed,Methylocella tundrae,Fluoroacetate dehalogenase,Fast,5671.00,128.00,forestgreen
+A0A4Z0BVY8,Yes,LGL1 ABH enzyme (monoacylglycerol lipase),UniProt Active Unreviewed,Ramlibacter rhizophilus,Alpha/beta hydrolase,Fast,59828.00,1241.00,darkorange
+A0ABF7PGA4,Yes,LGL1 ABH enzyme (no GO annotation),UniProt Active Unreviewed,Rhodopseudomonas palustris,Fluoroacetate dehalogenase,Fast,,,blue
+K8NY92,Yes,LGL1 ABH enzyme (hydrolase),UniProt Active Unreviewed,Afipia clevelandensis ATCC 49720,Fluoroacetate dehalogenase,Fast,10752.00,837.00,tan
+A0A840N899,Yes,LGL1 ABH enzyme (hydrolase) higher Hamiltonian than AY8,UniProt Active Unreviewed,Afipia massiliensis,Haloacetate dehalogenase,Fast,8911.00,388.00,darkviolet
+,,,,,,,,,

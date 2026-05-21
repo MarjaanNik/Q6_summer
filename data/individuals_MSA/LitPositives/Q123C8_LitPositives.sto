@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID ABH_LiterturePositives_FullSeq_muscle
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q123C8 /2-310 DE [subseq from] Q123C8 
+
+Q123C8 /2-310         -----TWFDGFESRSFEVNGASIqarFSRVaLGDAprPALLLIHGFPQSHVMWHRVAQRLAQHYFLVMPDLRGYGDSSKTPGLPDHSNYSKRNMAHDMVAVMSALGVDRFFLCGHDRGARVAHRLALDHAARVIKLCVIDVAPTLDMYEGRGmtepyMAFAQAYYHWFHMLQPAPLPEIMMGANhletAKAYLHAKLGGW
+#=GR Q123C8 /2-310 PP .....79****************6666677779987889*************************************************************************************************************98876677789************************988889***********
+#=GC PP_cons           .....79****************...6677.7998..89*************************************************************************************************************9887.....89************************9....9***********
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxx...xxxx.xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxx
+
+Q123C8 /2-310         GSSG-LGYIEPEALAEYERCFCNAEALHTACEDYRASARIDLEHDRESRAHGLKVACDMLVLSGERGVVHRLFNPMALWQEQCSGiVAGHTLQAGHFIPEEQPQAVAQALLEFFA---
+#=GR Q123C8 /2-310 PP **99.8******************************************************************************9899**************************8...
+#=GC PP_cons           **99.8******************************************************************************9.99**************************8...
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID 3seeds
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q01398 /27-279 DE [subseq from] Q01398 
+
+Q01398 /27-279         PPVLMLHGFPQNRAMWARVAPQLAEHHTVVCADLRGYGDSDKPkclPDRSNYSFRTFAHDQLCVMRHLGFERFHLVGHDRGGRTGHRMALDHPEAVLSLTVMDIVPTYAMFMNTNRLVAASYWHWYFLQQPEPFPEHMIGQDPDFFYETCLFGWG-ATKVSDFDQQMLNAYRESWRNPAMIHGSCSDYRAAATIDLEHDS
+#=GR Q01398 /27-279 PP 9******************************************66679***********************************************************************************************************.********************************************
+#=GC PP_cons            9******************************************...79***********************************************************************************************************.********************************************
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q01398 /27-279         ADIqrkvecPTLVFYGSKGQMGQLFDIpaeWAKRCNNTTNASLPGGHFFVDQFP
+#=GR Q01398 /27-279 PP 9977777779****************9999**********************98
+#=GC PP_cons            997......9****************9...**********************98
+#=GC RF                 xxx......xxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx
+//

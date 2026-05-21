@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID ABH_LiterturePositives_FullSeq_muscle
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS A0A1W6ZS72/1-298 DE [subseq from] A0A1W6ZS72
+
+A0A1W6ZS72/1-298         MSDLADLFPGFESHWIDTQAGRIFARSGGDGPPLLLLHGYAQSNVMWHKVAPALAQKFTLIIPDLPGYGWSDAPRSGKGHTPYDKRSMARAMIEVMEKLGYVRFYLAGHDRGGRVSYRLALDNPGRLIKLAVLDIIPTYEMWNRMDHVMAIKVWHWPFLAQKFPMPEMLLEKAPIQYLDYKMASWTKAKDLSAFDPRALA
+#=GR A0A1W6ZS72/1-298 PP 89******************************************************************************************************************************************************************************************************
+#=GC PP_cons             89******************************************************************************************************************************************************************************************************
+#=GC RF                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A0A1W6ZS72/1-298         HYHAFFSDPLRIHATCEDYRAGATTDLGHDEVDHAAHNKISAPLLVLWGSAGIP-SERNPLTIWKDWAKEVSGKPIDSGHFVAEENPDATAAALLEFFR---
+#=GR A0A1W6ZS72/1-298 PP ******************************************************.999***************************************96...
+#=GC PP_cons             ******************************************************.999***************************************96...
+#=GC RF                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

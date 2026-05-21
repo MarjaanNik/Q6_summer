@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID ABH_LiterturePositives_FullSeq_muscle
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q01398 /2-292 DE [subseq from] Q01398 
+
+Q01398 /2-292         ------DFPGFKNSTVTVDGVDIAYTVSGEGPPVLMLHGFPQNRAMWARVAPQLAEHHTVVCADLRGYGDSDKPKCLPDRSNYSFRTFAHDQLCVMRHLGFERFHLVGHDRGGRTGHRMALDHPEAVLSLTVMDIVPTYAMFMNTNRLVAASYWHWYFLQQPEPFPEHMIGQDPDFFYETCLFGWGATKV-SDFDQQMLN
+#=GR Q01398 /2-292 PP ......69***********************************************************************************************************************************************************************************996.*********
+#=GC PP_cons           ......69***********************************************************************************************************************************************************************************996.*********
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q01398 /2-292         AYRESWRNPAMIHGSCSDYRAAATIDLEHDSADIQ--RKVECPTLVFYGSKGQMGQLFDIPAEWAKRCNNTTNASLPGGHFFVDQFPAETSEILLKFLAR--
+#=GR Q01398 /2-292 PP **********************************9..*************************************************************97..
+#=GC PP_cons           **********************************9..*************************************************************97..
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

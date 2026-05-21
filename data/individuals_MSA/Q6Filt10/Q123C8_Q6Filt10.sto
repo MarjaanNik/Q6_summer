@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID Q6NAM1_seed
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q123C8 /4-310 DE [subseq from] Q123C8 
+
+Q123C8 /4-310         -------FDGFESRSFEVNGASIqarFSRVAlGDAprPALLLIHGFPQSHVMWHRVAQRLAQHYFLVMPDLRGYGDSSKTPGLPDHSNYSKRNMAHDMVAVMSALGVDRFFLCGHDRGARVAHRLALDHAARVIKLCVIDVAPTLDMYEgRgMTepyMAFAQAYYHWFHMLQPAPLPEIMMGANhletAKAYLHAKLGGW
+#=GR Q123C8 /4-310 PP .......7777776655444444112777755786225799************************************9999999************************************************************9987522354222588999*******************873333579*********
+#=GC PP_cons           .......7777776655444444...77775.786..5799************************************9999999************************************************************99875.2.54...588999*******************87....579*********
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxx...xxxxx.xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xx...xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxx
+
+Q123C8 /4-310         GSSG-LGYIEPEALAEYERCFCNAEALHTACEDYRASARIDLEHDRESRAHGLKVACDMLVLSGERGVVHRLFNPMALWQEQCSGiVAGHTLQAGHFIPEEQPQAVAQALLEFFA---
+#=GR Q123C8 /4-310 PP 9887.999************************************************************************9988637899***********************96...
+#=GC PP_cons           9887.999************************************************************************99886.7899***********************96...
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

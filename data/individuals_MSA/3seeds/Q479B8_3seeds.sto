@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID 3seeds
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q479B8 /29-281 DE [subseq from] Q479B8 
+
+Q479B8 /29-281         PPLLLLHGYPETHAMWHKVASLLQDRFSLVLPDLRGYGDSGMPASQAdagNQSKRVMAQDMAELMTALGYQRFHVAAHDRGARVLHRLCLDHPGRIQTACIMDIAPTATTFALTNQALATSYFHWFFLIQAAPLPENMIAADPASWLKGCLSRWS-MGNEEAFDPAVVSEYVRCFSNPEAIRCSCDDYRAAAGIDLQHDg
+#=GR Q479B8 /29-281 PP 9******************************************876523379*******************************************************************************************************.6666**************************************95
+#=GC PP_cons            9******************************************8765...79*******************************************************************************************************.6666**************************************9.
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+Q479B8 /29-281         edaerRISCPLLVLWGNKGFVGRNYDVvalWREKALDVSGKGLPCGHFLPEELP
+#=GR Q479B8 /29-281 PP 555445668**************9997677*********************987
+#=GC PP_cons            .....5668**************9997...*********************987
+#=GC RF                 .....xxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx
+//

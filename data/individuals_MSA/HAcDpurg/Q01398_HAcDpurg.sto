@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID MUSCLE_PF00561_haloacetate_muscle_2nd
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q01398 /3-292 DE [subseq from] Q01398 
+
+Q01398 /3-292         -FPGFKNSTVTVDGVDIAYTVSGEGPPVLMLHGFPQNRAMWARVAPQLAEHHTVVCADLRGYGDSDKPKCLPDRSNYSFRTFAHDQLCVMRHLGFERFHLVGHDRGGRTGHRMALDHPEAVLSLTVMDIVPTYAMFMNTNRLVAASYWHWYFLQQPEPFPEHMIGQDPDFFYETCLFGWGATkVSDFDQQMLNAYRESWR
+#=GR Q01398 /3-292 PP .799*********************************************************************************************************************************************************************************999****************
+#=GC PP_cons           .799*********************************************************************************************************************************************************************************9.9****************
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+
+Q01398 /3-292         NPAMIHGSCSDYRAAATIDLEHDSAD-IQRKVECPTLVFYGSKGQMGQLFDIPAEWAKRCNNTTNASLPGGHFFVDQFPAETSEILLKFLAR-
+#=GR Q01398 /3-292 PP **************************.***************************************************************85.
+#=GC PP_cons           **************************.***************************************************************85.
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

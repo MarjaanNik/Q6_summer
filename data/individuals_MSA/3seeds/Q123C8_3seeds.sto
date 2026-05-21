@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID 3seeds
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q123C8 /34-298 DE [subseq from] Q123C8 
+
+Q123C8 /34-298         PALLLIHGFPQSHVMWHRVAQRLAQHYFLVMPDLRGYGDSSKTpglPDHSNYSKRNMAHDMVAVMSALGVDRFFLCGHDRGARVAHRLALDHAARVIKLCVIDVAPTLDMYEGrgMTepyMAFAQAYYHWFHMLQPAPLPEIMMGANhletAKAYLHAKLGGWG-SSGLGYIEPEALAEYERCFCNAEALHTACEDYRAS
+#=GR Q123C8 /34-298 PP 789************************************987525569**************************************************************974122212258999********************86444489***********.6667*******************************
+#=GC PP_cons            789************************************9875...69**************************************************************974..22...58999********************86....89***********.6667*******************************
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx...xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q123C8 /34-298         ARIDLEHDResrahglkVACDMLVLSGERGVVHRlfnPMALWQEQCSGiVAGHTLQAGHFIPEEQP
+#=GR Q123C8 /34-298 PP ********7333333225678*********98761115679**99997356789**********98
+#=GC PP_cons            ********7........5678*********9876...5679**99997.56789**********98
+#=GC RF                 xxxxxxxxx........xxxxxxxxxxxxxxxxx...xxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID Q6NAM1_seed
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q479B8 /11-293 DE [subseq from] Q479B8 
+
+Q479B8 /11-293         ---------------VDVGATRIHVRVRENeGrPPLLLLHGYPETHAMWHKVASLLQDRFSLVLPDLRGYGDSGMPASQADAGNQSKRVMAQDMAELMTALGYQRFHVAAHDRGARVLHRLCLDHPGRIQTACIMDIAPTATTFALTNQALATSYFHWFFLIQAAPLPENMIAADPASWLKGCLSRWS-MGNEEAFDPAV
+#=GR Q479B8 /11-293 PP ...............5677889999997542349*********************************************************************************************************************************************************8.58899******
+#=GC PP_cons            ...............567788999999754.3.9*********************************************************************************************************************************************************8.58899******
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q479B8 /11-293         VSEYVRCFSNPEAIRCSCDDYRAAAGIDLQHDGEDAE--RRISCPLLVLWGNKGFVGRNYDVVALWREKALDVSGKGLPCGHFLPEELPNDVARELVEFIA---
+#=GR Q479B8 /11-293 PP ********************************98866..79********************************************************9975...
+#=GC PP_cons            ********************************98866..79********************************************************9975...
+#=GC RF                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

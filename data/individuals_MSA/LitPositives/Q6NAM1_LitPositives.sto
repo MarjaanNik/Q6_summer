@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID ABH_LiterturePositives_FullSeq_muscle
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q6NAM1 /1-300 DE [subseq from] Q6NAM1 
+
+Q6NAM1 /1-300         MPDLADLFPGFGSEWINTSSGRIFARVGGDGPPLLLLHGFPQTHVMWHRVAPKLAERFKVIVADLPGYGWSDMPESDEQHTPYTKRAMAKQLIEAMEQLGHVHFALAGHDRGARVSYRLALDSPGRLSKLAVLDILPTYEYWQRMNRAYALKIYHWSFLAQPAPLPENLLGGDPDFYVKAKLASWTRAGDLSAFDPRAVE
+#=GR Q6NAM1 /1-300 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons           9*******************************************************************************************************************************************************************************************************
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6NAM1 /1-300         HYRIAFADPMRRHVMCEDYRAGAYADFEHDKIDVEAGNKIPVPMLALWGASGIAQSAATPLDVWRKWASDVQGAPIESGHFLPEEAPDQTAEALVRFFSA--
+#=GR Q6NAM1 /1-300 PP **************************************************************************************************87..
+#=GC PP_cons           **************************************************************************************************87..
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

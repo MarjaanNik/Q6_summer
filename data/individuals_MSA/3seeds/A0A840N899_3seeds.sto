@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID 3seeds
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS A0A840N899/32-287 DE [subseq from] A0A840N899
+
+A0A840N899/32-287         PPLLLLHGYPQTHVMWHRVAPMLAEKFTLVIPDLPGYGWSDVPktdENHTPFTKRTMAQVMIEVMEKLGHVHFGLAGHDRGGRVAYRLALDHPGRLSRLATLDILPTYDYWAKMDRGFALRIYHWAFLAQPHPLPENLIASNPDDYFGRTFKSWAKKDALNPFDPRAVEHYLTAFRDPLRIHAACEDYRAGAYADFEQDK
+#=GR A0A840N899/32-287 PP 9*****************************************94444789****************************************************************************************************************************************************98
+#=GC PP_cons              9*****************************************9...4789****************************************************************************************************************************************************98
+#=GC RF                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A0A840N899/32-287         GDveagnkitVPLLALWGGAGiasSTSSPLDTWRRWATNVSGYAIDSGHFLAEENP
+#=GR A0A840N899/32-287 PP 66333333337*******99933344679*************************98
+#=GC PP_cons              66........7*******999...44679*************************98
+#=GC RF                   xx........xxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

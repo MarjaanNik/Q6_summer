@@ -1,0 +1,6 @@
+﻿Name,HMM_profile,trainigMSA,LGLmodel,abbrev
+Three Seeds,3seeds.hmm,filtered_5pct_3seeds-lgl.fasta,3SEEDS_NEWMAP.pkl,3seeds
+ABH LitPositives,ABH_LiterturePositives_FullSeq_muscle.hmm,filtered_5pct_ABH_LiterturePositives_muscle_uniprot_getalign.fasta,filtered_5pct_ABH_LiterturePositives.pkl,LitPositives
+Q6 Filtered8,Q6NAM1.hmm,Q6NAM1_phmmer_all_filtered8-secondmap.fasta,Q6-filt8.pkl,Q6Filt8
+Q6 Filtered10,Q6NAM1.hmm,Q6NAM1_phmmer_all.fasta.afa_filtered10,Q6-filt10.pkl,Q6Filt10
+Haloacetate Purged,Haloacetate_purged_PF00561.hmm,filtered_5pct_Haloacetate_purged_PF00561.fasta,HaloacetatePurged_updated.pkl,HAcDpurg

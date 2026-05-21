@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID 3seeds
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS A0A1W6ZS72/32-286 DE [subseq from] A0A1W6ZS72
+
+A0A1W6ZS72/32-286         PPLLLLHGYAQSNVMWHKVAPALAQKFTLIIPDLPGYGWSDAPRSgkgHTPYDKRSMARAMIEVMEKLGYVRFYLAGHDRGGRVSYRLALDNPGRLIKLAVLDIIPTYEMWNRMDHVMAIKVWHWPFLAQKFPMPEMLLEKAPIQYLDYKMASWTKAKDLSAFDPRALAHYHAFFSDPLRIHATCEDYRAGATTDLGHDE
+#=GR A0A1W6ZS72/32-286 PP 9******************************************765559***************************************************************************************************************************************************9998
+#=GC PP_cons              9******************************************76...9***************************************************************************************************************************************************9998
+#=GC RF                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A0A1W6ZS72/32-286         VDhaahnkisAPLLVLWGSAGipSERNPLTIWKDWAKEVSGKPIDSGHFVAEENP
+#=GR A0A1W6ZS72/32-286 PP 77444444447**********4445689*************************98
+#=GC PP_cons              77........7**********..45689*************************98
+#=GC RF                   xx........xxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

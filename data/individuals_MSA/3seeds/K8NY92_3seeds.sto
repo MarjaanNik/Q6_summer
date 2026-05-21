@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID 3seeds
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS K8NY92/32-287 DE [subseq from] K8NY92
+
+K8NY92/32-287         PPLLLLHGYPQTHVMWHRVAPMLADKFTLVIPDLPGYGWSDVPktdENHTPFSKRAMAQVMVEAMEQLGHVHFGLAGHDRGGRVAYRLALDHPGRLSRLATLDILPTYDYWLKMDRGFALRIYHWAFLAQPHPLPENLIASNPDDYFGRTFRSWAKQDAPNPFDPRAVEHYLTAFRDPLRIHAACEDYRAGAYTDFEQDK
+#=GR K8NY92/32-287 PP 9*****************************************94444789*****************************************************************************************************************************************************8
+#=GC PP_cons          9*****************************************9...4789*****************************************************************************************************************************************************8
+#=GC RF               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+K8NY92/32-287         TDaeagnkitVPLLALWGGAGiaaSASSPLDTWRKWAANVSGQPIDSGHFLAEENP
+#=GR K8NY92/32-287 PP 76556666669*******99933345689*************************98
+#=GC PP_cons          76........9*******999...45689*************************98
+#=GC RF               xx........xxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

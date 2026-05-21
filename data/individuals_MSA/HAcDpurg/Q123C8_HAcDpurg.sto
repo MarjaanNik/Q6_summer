@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID MUSCLE_PF00561_haloacetate_muscle_2nd
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q123C8 /4-310 DE [subseq from] Q123C8 
+
+Q123C8 /4-310         -FDGFESRSFEVNGASIQARFSrvalGDAprPALLLIHGFPQSHVMWHRVAQRLAQHYFLVMPDLRGYGDSSKTPGLPDHSNYSKRNMAHDMVAVMSALGVDRFFLCGHDRGARVAHRLALDHAARVIKLCVIDVAPTLDMYEGRGmtepyMAFAQAYYHWFHMLQPAPLPEIMMGANhletAKAYLHAKLGGWGSSgLG
+#=GR Q123C8 /4-310 PP .899*************9875322237776679*************************************************************************************************************96431122268***********************973333579**********999**
+#=GC PP_cons           .899*************98753....777..79*************************************************************************************************************9643.....68***********************97....579**********99.**
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxx....xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxx.xx
+
+Q123C8 /4-310         YIEPEALAEYERCFCNAEALHTACEDYRASARIDLEHDRESRaHGLKVACDMLVLSGERGVVHRLFNPMALWQEQCSGiVAGHTLQAGHFIPEEQPQAVAQALLEFFA--
+#=GR Q123C8 /4-310 PP *****************************************************************************999**************************96..
+#=GC PP_cons           ******************************************.**********************************9.9**************************96..
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

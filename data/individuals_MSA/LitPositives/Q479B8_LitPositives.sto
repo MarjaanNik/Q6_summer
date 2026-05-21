@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID ABH_LiterturePositives_FullSeq_muscle
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q479B8 /4-295 DE [subseq from] Q479B8 
+
+Q479B8 /4-295         --------SSYVTRDVDVGATRIHVRVrENEGrPPLLLLHGYPETHAMWHKVASLLQDRFSLVLPDLRGYGDSGMPASQADAGNQSKRVMAQDMAELMTALGYQRFHVAAHDRGARVLHRLCLDHPGRIQTACIMDIAPTATTFALTNQALATSYFHWFFLIQAAPLPENMIAADPASWLKGCLSRWSMGNE-EAFDPAV
+#=GR Q479B8 /4-295 PP ........5799***************889999************************************************************************************************************************************************************998.*******
+#=GC PP_cons           ........5799***************.8999.************************************************************************************************************************************************************998.*******
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q479B8 /4-295         VSEYVRCFSNPEAIRCSCDDYRAAAGIDLQHDGEDAE--RRISCPLLVLWGNKGFVGRNYDVVALWREKALDVSGKGLPCGHFLPEELPNDVARELVEFIARH-
+#=GR Q479B8 /4-295 PP ***********************************98..*************************************************************975.
+#=GC PP_cons           ***********************************98..*************************************************************975.
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

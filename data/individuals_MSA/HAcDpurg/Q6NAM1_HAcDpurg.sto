@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID MUSCLE_PF00561_haloacetate_muscle_2nd
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS Q6NAM1 /8-300 DE [subseq from] Q6NAM1 
+
+Q6NAM1 /8-300         -FPGFGSEWINTSSGRIFARVGGDGPPLLLLHGFPQTHVMWHRVAPKLAERFKVIVADLPGYGWSDMPESDEQHTPYTKRAMAKQLIEAMEQLGHVHFALAGHDRGARVSYRLALDSPGRLSKLAVLDILPTYEYWQRMNRAYALKIYHWSFLAQPAPLPENLLGGDPDFYVKAKLASWTRAgdLSAFDPRAVEHYRIAF
+#=GR Q6NAM1 /8-300 PP .899********************************************************************************************************************************************************************************9999****************
+#=GC PP_cons           .899********************************************************************************************************************************************************************************99..****************
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxx
+
+Q6NAM1 /8-300         ADPMRRHVMCEDYRAGAYADFEHDKIDVeAGNKIPVPMLALWGASGIAQSAATPLDVWRKWASDVQGAPIESGHFLPEEAPDQTAEALVRFFSA-
+#=GR Q6NAM1 /8-300 PP *******************************************************************************************985.
+#=GC PP_cons           ****************************.**************************************************************985.
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

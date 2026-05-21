@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID Q6NAM1_seed
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS A0A7S9CV34/1-301 DE [subseq from] A0A7S9CV34
+
+A0A7S9CV34/1-301         MPDLADLFPGYASKWINTSQGRIFARVGGSGPPLLLLHGFSSTHVMWHTVAPDLADKFTLIIPDLPGYGWSDMPDSDKDHTPYTKRVWARTMIEMMEQLGHVHFALAGHDRGGRVSYRLALDHPGRLSKLAVLDIAPTYDYWQKLNRLSALKIYHWAFLAQPFPLPETLIAGHGEFFLKEKMASQTKSKTLDAIDPRALE
+#=GR A0A7S9CV34/1-301 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons             9*******************************************************************************************************************************************************************************************************
+#=GC RF                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A0A7S9CV34/1-301         HYIAPFRDPARIHAMCEDYRAGAFADYEIDKADVDAGNKITVPMLALWGDAGVASAATTPLDTWKKWATNVSGAPVDSGHFLPEENPDVTAKLLREFFLAA-
+#=GR A0A7S9CV34/1-301 PP *************************************************************************************************9886.
+#=GC PP_cons             *************************************************************************************************9886.
+#=GC RF                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

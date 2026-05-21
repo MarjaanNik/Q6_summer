@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID MUSCLE_PF00561_haloacetate_muscle_2nd
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS A0A4Z0BVY8/8-299 DE [subseq from] A0A4Z0BVY8
+
+A0A4Z0BVY8/8-299         -FPGFASEWLDTDAGRIFARVGGKGPPLLLLHGYPQTHAMWHQVAPALAERFTLVVADLPGYGQSDVPPSDAQHTPYTKRAMAQVMAQAMERLGFPRFAMAAHDRGARVGYRLALDQPQRLTRLALLDILPTYDYWLKMDRDFALRIYHWTFLAQPHPLPERLIEASADAYFMETFRRWTKPgRDPFDPRAVAHYLAALR
+#=GR A0A4Z0BVY8/8-299 PP .89**********************************************************************************************************************************************************************************99*****************
+#=GC PP_cons             .89**********************************************************************************************************************************************************************************9.*****************
+#=GC RF                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+
+A0A4Z0BVY8/8-299         DPARIHAACEDYRAGAHADFEHDRADVeAGRTIEVPLLVLWGSSGVAAGAGTPLDVWRRWATQVRGGPVESGHFLCEENPAATVAELQAFLAQ-
+#=GR A0A4Z0BVY8/8-299 PP *******************************************************************************************86.
+#=GC PP_cons             ***************************.***************************************************************86.
+#=GC RF                  xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

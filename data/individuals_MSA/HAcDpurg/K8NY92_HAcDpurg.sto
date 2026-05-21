@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+#=GF ID MUSCLE_PF00561_haloacetate_muscle_2nd
+#=GF AU hmmsearch (HMMER 3.4)
+
+#=GS K8NY92/8-300 DE [subseq from] K8NY92
+
+K8NY92/8-300         -FPGFASEWISTRGGRIFARVGGKGPPLLLLHGYPQTHVMWHRVAPMLADKFTLVIPDLPGYGWSDVPKTDENHTPFSKRAMAQVMVEAMEQLGHVHFGLAGHDRGGRVAYRLALDHPGRLSRLATLDILPTYDYWLKMDRGFALRIYHWAFLAQPHPLPENLIASNPDDYFGRTFRSWAKQdaPNPFDPRAVEHYLTAF
+#=GR K8NY92/8-300 PP .89*********************************************************************************************************************************************************************************999999**************
+#=GC PP_cons         .89*********************************************************************************************************************************************************************************99..99**************
+#=GC RF              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxx
+
+K8NY92/8-300         RDPLRIHAACEDYRAGAYTDFEQDKTDAeAGNKITVPLLALWGGAGIAASASSPLDTWRKWAANVSGQPIDSGHFLAEENPQATADALLKFFSE-
+#=GR K8NY92/8-300 PP ********************************************************************************************86.
+#=GC PP_cons         ****************************.***************************************************************86.
+#=GC RF              xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//
